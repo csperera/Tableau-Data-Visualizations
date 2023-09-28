@@ -11,13 +11,20 @@ With this project I wanted to accurately show where house prices have been in th
 ## Process
 My process followed the steps detailed below:
 ### Step 1
-Finding Current Datasets:  The first issue I had was to find current datasets for House Prices, Weekly Earnings, Construction Starts, House Price Index and Consumer Price Index.  After consulting with mentors, I was able to drop the requirement for “Office Real Estate” because finding a current database was not possible. For the other requirements I located the following: 
+Finding Current Datasets:  The first issue I had was to find current datasets for House Prices, Weekly Earnings, Construction Starts, House Price Index and Consumer Price Index.  After consulting with mentors, I was able to drop the requirement for “Office Real Estate” because finding a current database was not possible. For the other requirements I located the following:
+
 i) Bank for International Settlements (BIS) Canadian Housing Price Index current to present day
+
 ii) Canadian Real Estate Association House Price Index (HPI) “Canada” current to present day
+
 iii) Canadian Real Estate Association House Price by province current to present day
+
 iv) Stats Canada Average Weekly Earnings – current to present day
+
 v) Stats Canada Total Building Permits – current to present day
+
 vi) Stats Canada Consumer Price Index – current to present day
+
 I did find some other datasets which I did download, but were not used in the project due to time constraints. 
 ### Step 2
 Data Cleaning – many days were spent cleaning the data, deleting data which would not be usable in the visualizations, refactoring and transposing data for the vagaries of Tableau and other data wrangling issues.  I found that Tableau is not particularly data friendly, and much pre-treatment needs to occur for Tableau to accommodate the data I wanted to use. 
@@ -37,7 +44,7 @@ This chart is the centerpiece to the whole presentation because of the discovery
 DailyFX Market Cycles:  This 3rd Party graphic was expressly included in the presentation to educate my audience about how market trends – particularly Parabolic markets – usually resolve.  Of particular interest was the “Euphoria” segment of the “Blow-Off-Top” phase which we went through in the 2nd Quarter of 2022, then the resulting “Bull-Trap” waypoint this past summer and the “Lower-High” waypoint that we’re just hitting now.  This schematic educated my audience about what to expect from the Market Cycle going forward. 
 
 ### CREA HPI House Prices
-The CREA HPI House Prices chart translated the housing index figures from the BIS Canadian House Prices Chart into actual house prices Canada-wide.  Using clustering on this chart confirmed the presence of two trendlines (only since 2005 due to data constraint) but on precisely the same dates as indicated by BIS data which served to confirm our early findings.  On a national level, average house prices peaked in the 2nd quarter of 2022 at $780,458 and have come down since.  Ultimately, over the course of 24 to 48 months, we expect house prices to reduce to $482,619 on average nationwide which is a reduction of the aforementioned 38.16%.
+The CREA HPI House Prices chart translated the housing index figures from the BIS Canadian House Prices Chart into actual house prices Canada-wide.  Using clustering on this chart confirmed the presence of two trendlines (only since 2005 due to data constraint) but on precisely the same dates as indicated by BIS data which served to confirm our earlier findings.  On a national level, average house prices peaked in the 2nd quarter of 2022 at $780,458 and have come down since.  Ultimately, over the course of 24 to 48 months, we expect house prices to reduce to $482,619 on average nationwide which is a reduction on the order of the aforementioned 38.16%.
 
 ### Dashbord 3
 Explored a heatmap of price declines across the country by province, a study of StatsCan Building Permits and the Bank of Canada CPI rate prediction.
@@ -47,7 +54,7 @@ We produced a study of price reductions across the country since the peak of the
 Building Permits – Stats Canada Building Permits showed a slight increase overall mainly driven by government building permits which are not affected by the economy.  When broken out, residential building permits showed a sharp decrease with commercial/government building permits still rising. 
 
 ### Average Monthly Wages
-although charted, they did not provide more resolution to our data but did serve to show an animation for display purposes. 
+Although charted, they did not provide more resolution to our data but did serve to show an animation for presentation display purposes. 
 
 ### CPI, CPI Rate:
 The CPI and CPI rate did show a sharp reduction from 6.8% on average in 2022 down to 4.58% in 2023 with a wide prediction between 0 and 6.8% by Tableau.  My personal feeling is that it will continue lower at its present slope down to the denoted average value of 2.44%. 
