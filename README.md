@@ -24,7 +24,7 @@ Data Cleaning – many days were spent cleaning the data, deleting data which wo
 ### Step 3
 Exploratory Data Analysis – The exploratory data analysis was very exciting because we were dealing with current data which was very timely.  We did find an interesting pattern in the BIS house price data, and also interesting patterns with respect to house price decline differences depending on which province the homes were located in.  CPI and Building Permit data also showed the starts of reversals for the market at large.  I’ll go more into each of these findings in the Results section. 
 ### Step 4
-Visualizations – In total, 3 dashboards and 7 visualizations were created to tell the story “The Canadian Real Estate Market – Where It’s Been & Where It’s Going”.  The story we told during the presentation was (if I do say so myself 😊 ) captivating and well received by the very interested audience, because all of them had an interest in where their current or future house price was headed.
+Visualizations – In total, 3 dashboards and 7 visualizations were created to tell the story “The Canadian Real Estate Market – Where It’s Been & Where It’s Going”.  The story I told during the presentation was (if I do say so myself 😊 ) captivating and well received by the very interested audience, because all of them had an interest in where their current or future house price was headed.
 
 ## Results
 ### Dashboard 1:
