@@ -50,8 +50,10 @@ The CREA HPI House Prices chart translated the housing index figures from the BI
 Explored a heatmap of price declines across the country by province, a study of StatsCan Building Permits and the Bank of Canada CPI rate prediction.
 
 ### Canada Heat Map
-We produced a study of price reductions across the country since the peak of the real estate market in the 2nd quarter of 2022.  We found that the largest decliner was Ontario, going down an average of 18.13%, then British Columbia declining 8.02%, followed by Manitoba, Quebec and Nova Scotia all below 5%.  Surprisingly Alberta, Sasketchewan and Newfoundland all benefitted from slight price increases during this “dead cat bounce” period. 
-Building Permits – Stats Canada Building Permits showed a slight increase overall mainly driven by government building permits which are not affected by the economy.  When broken out, residential building permits showed a sharp decrease with commercial/government building permits still rising. 
+We produced a study of price reductions across the country since the peak of the real estate market in the 2nd quarter of 2022.  We found that the largest decliner was Ontario, going down an average of 18.13%, then British Columbia declining 8.02%, followed by Manitoba, Quebec and Nova Scotia all below 5%.  Surprisingly Alberta, Sasketchewan and Newfoundland all benefitted from slight price increases during this “dead cat bounce” period.
+
+### Building Permits
+Stats Canada Building Permits showed a slight increase overall mainly driven by government building permits which are not affected by the economy.  When broken out, residential building permits showed a sharp decrease with commercial/government building permits still rising. 
 
 ### Average Monthly Wages
 Although charted, they did not provide more resolution to our data but did serve to show an animation for presentation display purposes. 
